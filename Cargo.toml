@@ -2,7 +2,9 @@
 name = "rust-actix-crud"
 version = "0.1.0"
 edition = "2021"
+description = "Learn how to create Rest API in Rust and setup CI/CD pipeline"
 repository = "https://github.com/hendrysuwanda/rust-actix-crud"
+license = "MIT"
 
 [dependencies]
 actix-web = "4"
