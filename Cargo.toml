@@ -1,6 +1,6 @@
 [package]
 name = "rust-actix-crud"
-version = "0.1.2"
+version = "0.1.3"
 edition = "2021"
 description = "Learn how to create Rest API in Rust and setup CI/CD pipeline"
 repository = "https://github.com/hendrysuwanda/rust-actix-crud"
